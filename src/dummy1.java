@@ -1,6 +1,6 @@
 public class dummy1 {
     public static void myFirstFunc(){
-        // hacy
+        // hacky
         int a = 5;
 
     }
@@ -8,6 +8,12 @@ public class dummy1 {
     public static int mysecondFunc(){
         // this function is stupid
         int a = 66;
+        return a;
+    }
+
+    public static int myThirdFunc(){
+        // this function will nuke the earth
+        int a = 88;
         return a;
     }
 }
