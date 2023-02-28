@@ -14,6 +14,8 @@ public class dummy1 {
     public static int myThirdFunc(){
         // this function will nuke the earth
         int a = 88;
+        if(a == 88)
+            return 3;
         return a;
     }
 }
