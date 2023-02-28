@@ -18,4 +18,11 @@ public class dummy1 {
             return 3;
         return a;
     }
+
+    public int getX(){
+        int a = 88;
+        if(a == 88)
+            return 3;
+        return a;
+    }
 }
