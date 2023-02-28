@@ -20,8 +20,8 @@ public class dummy1 {
     }
 
     public int getX(){
-        int a = 88;
-        if(a == 88)
+        int a = 90;
+        if(a == 90)
             return 3;
         return a;
     }
