@@ -21,7 +21,7 @@ public class dummy1 {
 
     public int getX(){
         int a = 90;
-        if(a == 90)
+        if(a == 99)
             return 3;
         return a;
     }
